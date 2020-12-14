@@ -1,0 +1,4 @@
+{
+   "mqttServer": "",
+   "mqttClientId": "mqtt-eq3-thermostat"
+}
